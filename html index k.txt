@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boost Your E-Commerce Product Ratings</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        body {
+            background-color: #f4f7fe;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background: linear-gradient(135deg, #2563eb, #1e40af);
+            color: white;
+            padding: 60px 20px;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 15px;
+        }
+        header p {
+            font-size: 1.2rem;
+            max-width: 600px;
+            margin: 0 auto 25px auto;
+            opacity: 0.9;
+        }
+        .cta-btn {
+            display: inline-block;
+            background-color: #25d366;
+            color: white;
+            padding: 14px 30px;
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.1rem;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            transition: 0.3s;
+        }
+        .cta-btn:hover {
+            background-color: #1ebe57;
+            transform: translateY(-2px);
+        }
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+        .card {
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+        }
+        .card h3 {
+            color: #2563eb;
+            margin-bottom: 10px;
+        }
+        .contact-section {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+        }
+        .contact-section h2 {
+            margin-bottom: 15px;
+            color: #1e293b;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            font-size: 0.9rem;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>अपने E-Commerce प्रोडक्ट्स की Rating और Reviews बढ़ाएं</h1>
+        <p>Amazon, Flipkart और अन्य ई-कॉमर्स स्टोर्स पर अपने प्रोडक्ट्स की सेल और विजिबिलिटी 10x बढ़ाएं। 100% सेफ और आर्गेनिक सर्विस।</p>
+        <a href="https://wa.me/918441843258" class="cta-btn" target="_blank">WhatsApp पर संपर्क करें</a>
+    </header>
+
+    <div class="container">
+        <div class="features">
+            <div class="card">
+                <h3>⭐ 5-Star Ratings</h3>
+                <p>आपके प्रोडक्ट्स के लिए हाई-क्वालिटी और पॉजिटिव रेटिंग्स ताकि ग्राहकों का भरोसा बढ़े।</p>
+            </div>
+            <div class="card">
+                <h3>🚀 Fast Sales Boost</h3>
+                <p>अच्छी रेटिंग्स से आपकी प्रोडक्ट रैंकिंग सुधरेगी और सेल्स तेजी से बढ़ेगी।</p>
+            </div>
+            <div class="card">
+                <h3>🔒 100% Safe Service</h3>
+                <p>पूरी तरह से सुरक्षित और भरोसेमंद काम, बिना किसी अकाउंट रिस्क के।</p>
+            </div>
+        </div>
+
+        <div class="contact-section">
+            <h2>आज ही अपने बिजनेस को आगे बढ़ाएं!</h2>
+            <p style="margin-bottom: 20px;">अगर आप अपने प्रोडक्ट की रेटिंग और रिव्यू बढ़ाना चाहते हैं, तो अभी हमसे संपर्क करें।</p>
+            <a href="https://wa.me/91YOURNUMBER" class="cta-btn" target="_blank">डायरेक्ट कॉल या मैसेज करें</a>
+        </div>
+    </div>
+
+    <footer>
+        <p>© 2026 E-Com Boost Services. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
